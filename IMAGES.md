@@ -1,14 +1,14 @@
 # Generated image manifest
-- `/public/images/hero.webp` — 16:9 warm editorial portrait with gold-tone necklace and jhumkas.
-- `/public/images/collection-daily-wear.webp` — 4:5 minimal daily-wear flat lay.
-- `/public/images/collection-party-wear.webp` — 4:5 statement set on champagne velvet.
-- `/public/images/collection-bridal.webp` — 4:5 bridal set on espresso silk.
-- `/public/images/spotlight-dark-panel.webp` — 16:9 bangles against dark espresso.
-- `/public/images/bestseller-earrings.webp` — 1:1 ornate jhumkas.
-- `/public/images/bestseller-necklace.webp` — 1:1 layered necklace.
-- `/public/images/bestseller-bangles.webp` — 1:1 bangle stack.
-- `/public/images/how-to-order-step.webp` — 1:1 phone/chat jewellery illustration.
-- `/public/images/about-story.webp` — 4:5 jewellery flat lay with dried flowers.
-- `/public/images/about-founder-placeholder.webp` — 1:1 founder placeholder portrait.
-- `/public/images/contact-map-banner.webp` — 16:9 airy blurred jewellery backdrop.
-- `/public/images/og-image.png` — 1200×630 social share jewellery flat lay.
+- `/public/images/hero.svg` — 16:9 warm editorial portrait with gold-tone necklace and jhumkas.
+- `/public/images/collection-daily-wear.svg` — 4:5 minimal daily-wear flat lay.
+- `/public/images/collection-party-wear.svg` — 4:5 statement set on champagne velvet.
+- `/public/images/collection-bridal.svg` — 4:5 bridal set on espresso silk.
+- `/public/images/spotlight-dark-panel.svg` — 16:9 bangles against dark espresso.
+- `/public/images/bestseller-earrings.svg` — 1:1 ornate jhumkas.
+- `/public/images/bestseller-necklace.svg` — 1:1 layered necklace.
+- `/public/images/bestseller-bangles.svg` — 1:1 bangle stack.
+- `/public/images/how-to-order-step.svg` — 1:1 phone/chat jewellery illustration.
+- `/public/images/about-story.svg` — 4:5 jewellery flat lay with dried flowers.
+- `/public/images/about-founder-placeholder.svg` — 1:1 founder placeholder portrait.
+- `/public/images/contact-map-banner.svg` — 16:9 airy blurred jewellery backdrop.
+- `/public/images/og-image.svg` — 1200×630 social share jewellery flat lay.
