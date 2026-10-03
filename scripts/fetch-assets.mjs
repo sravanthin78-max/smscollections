@@ -1,0 +1,3 @@
+import fs from "node:fs/promises"; import path from "node:path";
+const assets=[{url:"https://www.superaitools.dev/api/public/assets/1c370f24-3763-43e6-b56d-772f50f5021f/a2755c3669052beb13ac985b3aa5cf5c/Luxurious%20SMS%20Jewellery%20Emblem.png",to:"public/logo.png"}];
+for(const a of assets){try{await fs.access(a.to);console.log(`asset exists: ${a.to}`);continue;}catch{} try{const r=await fetch(a.url);if(!r.ok)throw new Error(String(r.status));await fs.mkdir(path.dirname(a.to),{recursive:true});await fs.writeFile(a.to,Buffer.from(await r.arrayBuffer()));console.log(`downloaded: ${a.to}`)}catch(e){console.warn(`asset skipped: ${a.to}`,e?.message||e)}}
